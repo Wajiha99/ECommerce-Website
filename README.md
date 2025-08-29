@@ -1,12 +1,19 @@
 😎 Features
 <br>
 ->Sleek and modern UI inspired by top e-commerce platforms
+<br>
 ->Fully responsive, providing a seamless shopping experience on any device
+<br>
 ->Effortless cart management, allowing users to add items with ease
+<br>
 ->Detailed product views for informed purchasing decisions
+<br>
 ->Real-time cart total updates for a transparent checkout process
+<br>
 ->Adjustable item quantities directly from the product page, streamlining the shopping experience without repetitive clicks
+<br>
 ->Interactive 3D t-shirt model, enhancing user engagement with an immersive shopping experience powered by Three.js
+<br>
 
 🚀 What technologies were used?
 <br>
