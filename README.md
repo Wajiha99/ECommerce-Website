@@ -16,13 +16,19 @@
 <br>
 
 🚀 What technologies were used?
-<br>
+<hr>
 ->React.js (Create React App)
+<br>
 ->React Router DOM for seamless navigation
+<br>
 ->Material-UI for modern and responsive UI components
+<br>
 ->State management with Redux Toolkit
+<br>
 ->Three.js for immersive 3D models
+<br>
 ->Responsive web design principles for a mobile-friendly experience
+<br>
 <hr>
 🖥️ How can you clone and tweak this project?
 <br>
