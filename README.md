@@ -1,5 +1,5 @@
-😎 Features
-<br>
+<h1>😎 Features</h1>
+<hr>
 ->Sleek and modern UI inspired by top e-commerce platforms
 <br>
 ->Fully responsive, providing a seamless shopping experience on any device
@@ -15,7 +15,7 @@
 ->Interactive 3D t-shirt model, enhancing user engagement with an immersive shopping experience powered by Three.js
 <br>
 
-🚀 What technologies were used?
+<h1>🚀 What technologies were used?</h1>
 <hr>
 ->React.js (Create React App)
 <br>
@@ -30,21 +30,33 @@
 ->Responsive web design principles for a mobile-friendly experience
 <br>
 <hr>
-🖥️ How can you clone and tweak this project?
+<h1>🖥️ How can you clone and tweak this project?</h1>
 <br>
 From your command line, first clone this repo:
+<br>
 # Clone this repository
+<br>
 $ https://github.com/Wajiha99/ECommerce-Website.git
+<br>
 
 # Go into the repository
+<br>
 $ cd uomo-ecommerce-website-reactjs
+<br>
 
 # Remove current origin repository
+<br>
 $ git remote remove origin
+<br>
 
 Then you can install the dependencies using NPM:
+<br>
 # Install dependencies
+<br>
 $ npm install
+<br>
 
 # Start development server
+<br>
 $ npm start
+<br>
